@@ -1,0 +1,24 @@
+.btn {
+    padding: 10px 24px;
+    border: 2px solid blueviolet;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    color: blueviolet;
+  }
+  
+  .primary {
+    border: 2px solid red;
+    color: red
+  }
+  
+  .secondary {
+    color: greenyellow;
+    border: 2px solid greenyellow;
+    padding: 14px 34px;
+}
+  
+  .danger {
+    background-color: rgb(230, 72, 64);
+  }
